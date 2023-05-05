@@ -1,0 +1,24 @@
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\FrameWork\obj\Debug\FrameWork.csproj.AssemblyReference.cache
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\FrameWork\obj\Debug\FrameWork.csproj.AssemblyReference.cache
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\FrameWork\obj\Debug\FrameWork.csproj.AssemblyReference.cache
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\Mahsa\Desktop\Final\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\Mahsa\Desktop\Final\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\Mahsa\Desktop\Final\FrameWork\obj\Debug\FrameWork.csproj.AssemblyReference.cache
+C:\Users\Mahsa\Desktop\Final\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Mahsa\Desktop\Final\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\Mahsa\Desktop\Final\FrameWork\obj\Debug\FrameWork.pdb

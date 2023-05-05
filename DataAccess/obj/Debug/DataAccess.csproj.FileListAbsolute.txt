@@ -1,0 +1,130 @@
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\bin\Debug\DomainModel.dll
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\bin\Debug\DomainModel.pdb
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\bin\Debug\DomainModel.dll.config
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\تحلیل داده\Taxi Servicee\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\bin\Debug\DomainModel.dll
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\bin\Debug\DomainModel.pdb
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\bin\Debug\DomainModel.dll.config
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\سی شارپ\تحلیل داده\جلسه ی نهم\Taxi Servicee\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\bin\Debug\DomainModel.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\bin\Debug\DomainModel.pdb
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\bin\Debug\DomainModel.dll.config
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\DomainModel.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\DomainModel.pdb
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\DomainModel.dll.config
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\جلسه ی دهم\Taxi Servicee - Copy - Copy\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\DomainModel.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\DomainModel.pdb
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\DomainModel.dll.config
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\DomainModel.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\DomainModel.pdb
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\DomainModel.dll.config
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\برنامه نویسی\تحلیل داده\C#\پروژه\Taxi Servicee - Copy - Copy - Copy\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\DomainModel.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\DomainModel.pdb
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\DomainModel.dll.config
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - Copy - Copy - Copy\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\bin\Debug\DomainModel.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\bin\Debug\DomainModel.pdb
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\bin\Debug\DomainModel.dll.config
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\Taxi Servicee - new\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\Final\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Mahsa\Desktop\Final\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\Final\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Mahsa\Desktop\Final\DataAccess\bin\Debug\DomainModel.dll
+C:\Users\Mahsa\Desktop\Final\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Mahsa\Desktop\Final\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahsa\Desktop\Final\DataAccess\bin\Debug\DomainModel.pdb
+C:\Users\Mahsa\Desktop\Final\DataAccess\bin\Debug\DomainModel.dll.config
+C:\Users\Mahsa\Desktop\Final\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Mahsa\Desktop\Final\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahsa\Desktop\Final\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mahsa\Desktop\Final\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mahsa\Desktop\Final\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Mahsa\Desktop\Final\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Mahsa\Desktop\Final\DataAccess\obj\Debug\DataAccess.pdb
